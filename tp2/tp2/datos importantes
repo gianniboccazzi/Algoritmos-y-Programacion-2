@@ -1,0 +1,14 @@
+datos importantes 
+el loggeo y logout es o(1), hash de usuarios?
+
+se publica y le llega a todos los usuarios al feed. el hash tiene de claves un heap?
+es n log p
+
+
+que hace cada uno? 
+tengo una base de datos con todos los usuarios
+
+cada usuario puede publicar un post
+cada usuario puede ver el feed
+cada usuario puede dar like al post    el post tiene likes
+se puede ver la cantidad de likes de un post
